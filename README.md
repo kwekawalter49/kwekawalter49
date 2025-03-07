@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kwekawalter49
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C# and ASP next
-- 💞️ I’m looking to collaborate on Human Resource and Payroll application that can run on the Web and Mobile app
+- 👀 I’m interested in Software Development and Data Analysis
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on with individual on the fintechs and finance related systems.
 - 📫 How to reach me Please contact me @ +255762738462 or kwekawalter49@gmail.com
 
 <!---
